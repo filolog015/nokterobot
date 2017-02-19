@@ -1,5 +1,0 @@
-adium-theme-ubuntu==0.3.4
-pyTelegramBotAPI==2.3.0
-requests==2.13.0
-six==1.10.0
-unity-lens-photos==1.0
